@@ -1,2 +1,2 @@
 # Smart_Voter
-An Android application that conducts institute-level student council elections quickly, precisely, and efficiently.
+An Android application that helps in conducting institute-level student council elections.
